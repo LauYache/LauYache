@@ -9,7 +9,7 @@
   
 - 📫 Me podes contactar a mi mail **lbyachelini@gmail.com**
 
-- 📄 [CV digital](https://www.notion.so/laurabyachelini/Laura-Yachelini-41d65ba4d252451b9f1ed08631fdd02c)
+- 📄 [CV digital](https://laurayachelini.super.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
