@@ -1,9 +1,10 @@
 <h1 align="center">Hola 👋, me llamo Laura Belen Yachelini</h1>
-<h3 align="center">Soy estudiante de analista de sistemas. </h3>
 
 - 👩🏻‍💻 Actualmente estoy profundizando en **desarrollo mobile en iOS con Swift y SwiftUI.**
   
 - 🙋🏻‍♀️ Tambien tengo conocimientos en desarrollo web, con HTML, CSS, Javascript, Vue.JS.
+
+- 👩🏻‍🎓 Soy estudiante de analista de sistemas.
   
 - 📫 Me podes contactar a mi mail **lbyachelini@gmail.com**
 
