@@ -3,9 +3,7 @@
 
 - 👩🏻‍💻 Actualmente estoy profundizando en **desarrollo mobile en iOS con Swift y SwiftUI.**
   
-- 🙋🏻‍♀️ Me considero una persona responsable, curiosa y creativa.
-
-- 💡 Estoy en la búsqueda de mi primera experiencia laboral en desarrollo de software, **con ganas de aprender.**
+- 🙋🏻‍♀️ Tambien tengo conocimientos en desarrollo web, con HTML, CSS, Javascript, Vue.JS.
   
 - 📫 Me podes contactar a mi mail **lbyachelini@gmail.com**
 
