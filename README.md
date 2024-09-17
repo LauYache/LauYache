@@ -8,7 +8,7 @@
   
 - 📫 Me podes contactar a mi mail **lbyachelini@gmail.com**
 
-- 📄 [CV digital](https://laurayachelini.super.site/)
+- 📄 [CV digital](https://lauyache.github.io/portfolio-web/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
