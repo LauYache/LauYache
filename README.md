@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 Actualmente estoy profundizando en **desarrollo mobile en iOS con Swift y SwiftUI.**
   
-- 🙋🏻‍♀️ Tambien tengo conocimientos en desarrollo web, con HTML, CSS, Javascript, Vue.JS.
+- 🙋🏻‍♀️ Tambien tengo conocimientos en desarrollo web, con HTML, CSS, Javascript, y Node.js.
 
 - 👩🏻‍🎓 Soy estudiante de analista de sistemas.
   
